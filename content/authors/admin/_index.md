@@ -17,13 +17,13 @@ social:
     icon_pack: fas
     link: mailto:kane9530@hotmail.com
   - icon: twitter
-    icon_pack: fas
+    icon_pack: fab
     link: https://twitter.com/kane953o  
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.linkedin.com/in/kane-toh/
   - icon: goodreads
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.goodreads.com/user/show/26856253-toh
 
 organizations:
