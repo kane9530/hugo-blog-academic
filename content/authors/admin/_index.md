@@ -2,19 +2,36 @@
 title: Kane Toh (卓秦全)
 role: Research Fellow (Bioinformatics)
 avatar_filename: avatar.png
-bio: ""
+bio: My bioinformatics interests center on transcriptomics analyses including spatial transcriptomics, single-cell RNA-seq and bulk RNA-seq.
+education:
+  courses:
+  - course: PhD in Genetics
+    institution: University of Cambridge
+    year: 2021
+  - course: BA in Natural Sciences (Biological)
+    institution: University of Cambridge
+    year: 2017
+
 social:
-  - display:
-      header: false
-    link: https://twitter.com/kane953o
+  - icon: envelope
     icon_pack: fas
-    icon: <i class="fa-brands fa-x-twitter"></i>
+    link: mailto:kane9530@hotmail.com
+  - icon: twitter
+    icon_pack: fas
+    link: https://twitter.com/kane953o  
+  - icon: linkedin
+    icon_pack: fas
+    link: https://www.linkedin.com/in/kane-toh/
+  - icon: goodreads
+    icon_pack: fas
+    link: https://www.goodreads.com/user/show/26856253-toh
+
 organizations:
   - name: Cancer Science Institute, National University of Singapore
     url: http://gedac.org
 superuser: true
 status:
-  icon: ☕️
+  icon: 💻
 ---
 Bioinformatician specialising in large-scale transcriptomics analysis (e.g. RNA-seq, single-cell RNA-seq). Proficient in bash, R, Python and navigating the linux environment.\
 \
