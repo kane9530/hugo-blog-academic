@@ -1,9 +1,8 @@
 ---
-title: Toh Qin Kane (卓秦全)
-role: Research Fellow in Bioinformatics
+title: Kane Toh (卓秦全)
+role: Research Fellow (Bioinformatics)
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 social:
   - display:
       header: false
