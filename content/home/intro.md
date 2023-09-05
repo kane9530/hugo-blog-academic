@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+🐈 Hi! I am Kane, a Bioinformatician at the National University of Singapore.
 
 Check out my [CV](/about/) and blog posts below 🌈
